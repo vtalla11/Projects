@@ -7,7 +7,7 @@ close();
 
 %Path to saved data folder (will create two subfolders 'Data' and
 %'Figures')
-folderPath = 'C:\Users\timel\Classes\Boomerang Research'; %Change path for your own application
+folderPath = 'C:\Users\timel\Projects\Boomerang Research'; %Change path for your own application
 
 %Creating file names for data and figure
 dataFolderInfo = dir(fullfile(folderPath,'Data'));
